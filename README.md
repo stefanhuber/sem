@@ -10,3 +10,9 @@
 6. Responsive Design, Weiterführende Interaktionsmuster ([pdf](https://github.com/stefanhuber/sem/raw/master/pdf/SEM06%20Responsive%20Design.pdf))
 7. Asynchrone Verarbeitung ([pdf](https://github.com/stefanhuber/sem/raw/master/pdf/SEM07%20Asynchrone%20Verarbeitung.pdf))
 
+## Lizenzierung
+![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Lizenzvertrag")
+
+Die Inhalte sind lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](https://github.com/stefanhuber/sem/blob/master/LICENSE.md)
+
+
